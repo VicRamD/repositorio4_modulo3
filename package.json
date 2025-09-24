@@ -1,0 +1,22 @@
+{
+  "name": "practico4modulo3",
+  "version": "1.0.0",
+  "description": "Practico 4 del sprint 1 del modulo 3",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/VicRamD/repositorio4_modulo3.git"
+  },
+  "author": "´Victor GFrancisco \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b\u001b[F\u001b[F\u001b[B\u001b[6~\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b Francisco Ramirez Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VicRamD/repositorio4_modulo3/issues"
+  },
+  "homepage": "https://github.com/VicRamD/repositorio4_modulo3#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
